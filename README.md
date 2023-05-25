@@ -6,6 +6,6 @@ This project has been developed at Theis Lab at the Institute of Computational B
 
 ## Personal notes
 I would like to thank any person that helped with my thesis. 
-* Dominik Klein for being my supervisor and guide during this project.
-* Dr. Ignacio Ibarra for being my supervisor and guide during this project. 
-* Alejandro Tejada for insights and good discussions.
+* Dominik Klein for being my supervisor and invaluable guidance and support throughout my thesis.
+* Dr. Ignacio Ibarra for being my supervisor and priceless guidance and encouragement during this project. 
+* Alejandro Tejada for insights, good discussions and helful suggestions and encouragement.
