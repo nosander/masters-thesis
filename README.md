@@ -6,6 +6,6 @@ This project has been developed at Theis Lab at Institute of Computational Biolo
 
 ## Personal notes
 I would like to thank any person that helped during my thesis. 
-* Dr. Ignacio Ibarra for being my supervisor and guide during this project. 
 * Dominik Klein for being my supervisor and guide during this project.
+* Dr. Ignacio Ibarra for being my supervisor and guide during this project. 
 * Alejandro Tejada for insights and good discussions.
