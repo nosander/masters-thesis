@@ -1,2 +1,11 @@
-# masters-thesis
-Repository for the work connected to my master's thesis.
+# Optimal Transport for Alignment of Multiomics Single-cell Data
+
+## Repository description
+The contents in this repository are part of my Master Thesis: Optimal Transport for Alignment of Multiomics Single-cell Data.
+This project has been developed at Theis Lab at Institute of Computational Biology of Helmholtz Munich.
+
+## Personal notes
+I would like to thank any person that helped during my thesis. 
+* Ph.D. [Ignacio Ibarra] for being my supervisor and guide during this project. 
+* Ph.D. Candidate [Dominik Klein] for being my supervisor and guide during this project.
+* Ph.D. Candidate [Alejandro Tejada] for insights and good discussions.
